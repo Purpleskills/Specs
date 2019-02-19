@@ -73,7 +73,7 @@ Course
 		IsRecurring
 			RecurringIn
 			NumberOfTimeRecurring
-		[Not in excel] Expiry date (when course will no longer be active)
+	[Not in excel] Expiry date (when course will no longer be active)
 
 	Min student count	
 	Max student count
