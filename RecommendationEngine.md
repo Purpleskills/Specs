@@ -1,6 +1,6 @@
-[Work in Progress]
+> [Work in Progress]
 
-Recommendation engine
+# Recommendation engine
 	What data we will need for Recommendation
 	Expertise level, complexity, date range, off-line, learning type, time taken, number of sessions, peer rating, Instructos(s), KeyWords in the course offline vs online, pricing, number of attendees, 
 
