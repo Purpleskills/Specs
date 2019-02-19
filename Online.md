@@ -11,7 +11,7 @@
 		[Not in excel] Level Calculated: Based on feedback
 
 
-	> Instructors {1…n} : Multiple instructor to a course   : Can be refactored to a separate set/table
+	Instructors {1…n} : Multiple instructor to a course   : Can be refactored to a separate set/table
 		ID
 		Name
 		Title
