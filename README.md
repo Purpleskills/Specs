@@ -1,2 +1,2 @@
 # Specs
-All the data models for Purple Skills
+> All the data models for Purple Skills
