@@ -26,7 +26,7 @@
 					
 	Price
 		[Not in excel] Mode of payment
-		Currency
+		[Not in excel] Currency (Default to INR)
 		Price
 		[Not in excel] Max price
 		[Not in excel] Min price
@@ -75,6 +75,3 @@
 			RecurringIn
 			NumberOfTimeRecurring
 	[Not in excel] Expiry date (when course will no longer be active)
-
-	Min student count	
-	Max student count
