@@ -7,7 +7,7 @@
 	Url
 	[Not in excel] Pictures (1…n) : Different resolution which can be auto generated)     
 	Level
-		From Provider: Can be 1 to 10 or (Beginner, intermediate, advanced)
+		From Provider: Beginner, intermediate, advanced
 		[Not in excel] Level Calculated: Based on feedback
 
 	Instructors {1…n} : There can be multiple instructor for a course : Can be refactored to a separate set/table
@@ -32,7 +32,8 @@
 		[Not in excel] Min price
 		[Not in excel] Bulk order pricing
 			TBD: Pricing model for bulk licensing like PLURALSIGHT
-	
+		Max student
+		Min Student
 	Follow up assessment (1..n)    : Depends on schedule of course
 		Is Assessment required
 			[Not in excel] TBD: schema of assessment and result of assessment per student
@@ -63,13 +64,13 @@
 
 	
 	Location:
-		Is Available on client campus
+		Is Available on trainer location [if false then on company location]
 		Primary Cities
 		
 	Schedule
 		Duration
-		Start date
-		End date
+		[Not in excel] Start date  (auto calculated by using calender)
+		[Not in excel] End date    (auto calculated by using calender)
 		IsRecurring
 			RecurringIn
 			NumberOfTimeRecurring
