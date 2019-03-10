@@ -27,7 +27,7 @@
 					
 	Price
 		Mode of payment
-		Currency
+		Currency (Default to INR)
 		Price
 		Max price
 		Min price
