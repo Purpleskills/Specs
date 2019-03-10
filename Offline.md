@@ -1,7 +1,7 @@
 # Offline
 
 ## Course
-	ID : Unique for each course
+	[Not in excel] ID : Unique for each course
 	Title
 	Description
 	Url
@@ -17,7 +17,7 @@
 		Linkedin url
 		Website
 		[Not in excel] Pictures (1…n) : different resolution which can be auto generated
-		Company Id : Can be refactored to a separate set/table
+		[Not in excel] Company Id : Can be refactored to a separate set/table
 		Company Name    
 		[Not in excel] Ranking : Calculated from feedback
 		[Not in excel] Feedback
