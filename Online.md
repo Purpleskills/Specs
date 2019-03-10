@@ -7,7 +7,7 @@
 	Url
 	Pictures (1…n) : different resolution which can be auto genetrated)     
 	Level
-		From Provider: Can be 1 to 10 or (Beginner, intermediate, advanced)
+		From Provider: Beginner, intermediate, advanced
 		[Not in excel] Level Calculated: Based on feedback
 
 
